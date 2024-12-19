@@ -1,0 +1,19 @@
+{
+  "name": "hydra-landing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "watch": "gulp watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-cleanhtml": "^1.0.3",
+    "gulp-minify": "^3.1.0",
+    "gulp-sass": "^6.0.0",
+    "sass": "^1.82.0"
+  }
+}
